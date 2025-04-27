@@ -1,0 +1,135 @@
+[
+  {
+    "index": 0,
+    "symbol": "C2FLR",
+    "price": "1645",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 1,
+    "symbol": "testXRP",
+    "price": "219598",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 2,
+    "symbol": "testLTC",
+    "price": "8308300",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 3,
+    "symbol": "testXLM",
+    "price": "27776",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 4,
+    "symbol": "testDOGE",
+    "price": "17908",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 5,
+    "symbol": "testADA",
+    "price": "72366",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 6,
+    "symbol": "testALGO",
+    "price": "22122",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 9,
+    "symbol": "testBTC",
+    "price": "9299432000",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 10,
+    "symbol": "testETH",
+    "price": "175678600",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 11,
+    "symbol": "testFIL",
+    "price": "281086",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 12,
+    "symbol": "testARB",
+    "price": "33573",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 13,
+    "symbol": "testAVAX",
+    "price": "2213223",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 14,
+    "symbol": "testBNB",
+    "price": "59730120",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 15,
+    "symbol": "testMATIC",
+    "price": "24638",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 16,
+    "symbol": "testSOL",
+    "price": "15038860",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 17,
+    "symbol": "testUSDC",
+    "price": "100004",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 18,
+    "symbol": "testUSDT",
+    "price": "100044",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 19,
+    "symbol": "testXDC",
+    "price": "7465",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  },
+  {
+    "index": 20,
+    "symbol": "testPOL",
+    "price": "24638",
+    "decimals": 5,
+    "timestamp": "2025-04-24T17:39:10.000Z"
+  }
+]
